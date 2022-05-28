@@ -1,5 +1,7 @@
 imbalanced-learn
+ipympl
 ipython
+ipywidgets
 japanize-matplotlib
 librosa
 matplotlib
@@ -8,6 +10,7 @@ moviepy
 nltk
 numpy
 opencv-python
+openpyxl
 pandas
 pdfminer.six
 plotly
@@ -22,3 +25,4 @@ SoundFile
 toml
 tqdm
 wordcloud
+xlrd
